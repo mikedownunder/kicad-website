@@ -1,0 +1,6 @@
+I am new to KiCad and aam trying to understand libraries.I have opened Library management in KiCad version 5 and under the heading 'Introduction' there are two links, however neither of them work.
+Go to https://forum.kicad.info/t/library-management-in-kicad-version-5/14636. 
+Scroll down to 'Introduction' where the following links will be found:
+http://docs.kicad-pcb.org/5.1.2/en/pcbnew/pcbnew.html#footprint_editor_managing_libraries
+http://docs.kicad-pcb.org/5.1.2/en/eeschema/eeschema.html#manage_symbol_libraries
+If either is selected, you get a 404 Page not found error.
